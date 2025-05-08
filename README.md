@@ -7,7 +7,6 @@ This is a fully frontend-based **Patient Registration App** built using **React 
 ## 🔗 Live Demo
 
 👉 https://patient-app-gules.vercel.app/
-_(Replace this with your actual deployed URL)_
 
 ---
 
