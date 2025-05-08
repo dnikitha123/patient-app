@@ -36,5 +36,5 @@ _(Replace this with your actual deployed URL)_
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/patient-registration-app.git
-cd patient-registration-app
+git clone https://github.com/dnikitha123/patient-app.git 
+cd patient-app
